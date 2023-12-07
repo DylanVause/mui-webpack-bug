@@ -1,5 +1,4 @@
 import { createRoot } from 'react-dom/client';
-import { ReactNode, useState, useEffect } from 'react';
 import './index.css';
 import Stack from '@mui/material/Stack';
 
